@@ -1,17 +1,15 @@
-# the_meals
+# The Meals Project
 
-A new Flutter project.
+- Using Clean Architecture + Modularization(Only Folder Structure)
+- Using Drift as Local Database
+- Using Bloc(Cubit)
+- Using Dio
+- Include Unit Testing and Widget Testing
 
-## Getting Started
+# Note
+- Apk is on the root folder "app-release.apk"
+- Video Record is on the root folder "record.mp4"
 
-This project is a starting point for a Flutter application.
+# Video
+https://github.com/dtkid8/the_meals/assets/23356781/e71993bb-a678-4dbe-a071-c874f3aec7e0
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# the_meals
